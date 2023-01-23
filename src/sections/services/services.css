@@ -1,6 +1,8 @@
 .services__container {
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns:1fr,1fr;
+  
+  align-items:center;
   gap: 2rem 4rem;
 }
 
@@ -26,20 +28,18 @@
 }
 /* MEDIA QUERIES(tablets) */
 @media screen and(max-width:1024px) {
-  .services__container {
-    
-    gap: 1.5rem;
+  .services__container{
+  gap: 1.5rem;
+ 
   }
 }
 
 /* /* MEDIA QUERIES(phones) */
 @media screen and(max-width:600px) {
-  .services{
+  .services__container{
     grid-template-columns: 1fr;
-  }
-  .container .services__container {
-    grid-template-columns:1fr;
-    gap: 1.2rem;
+    
+    gap:1.2rem;
   }
   .card.service {
     gap: 1.2rem;

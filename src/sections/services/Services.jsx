@@ -6,8 +6,8 @@ function Services() {
   return (
     <section id="services">
       <h2>Stack</h2>
-      <p>These are presently what I do on a daily basis</p>
-      <div className="container services__container">
+      <p>These are presently what I do on a regular basis</p>
+      <div className="container services__container" data-aos="fade-up">
         {data.map((item) => (
           <Card key={item.id} className="service light">
             <div className="service__icon">{item.icon}</div>

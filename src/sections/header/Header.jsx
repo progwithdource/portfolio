@@ -1,16 +1,24 @@
 import './header.css'
 import HeaderImage from '../../assets/bashpicture.jpg'
 import data from './data'
+import 'aos/dist/aos.css'
+import { useEffect } from 'react'
+import AOS from 'aos'
 
 function Header() {
+  useEffect(()=>{
+  AOS.init({duration:2000})
+  },[])
   return (
-    <header className="container header__container">
-      <div>
-        <img src={HeaderImage} class="Header__Profile" alt="headerimage" />
+    <header id="header">
+      <div className="container header__container">
+        <div className="header__profile" data-aos="fade-in">
+          <img src={HeaderImage} alt="headerimage" />
+        </div>
       </div>
-      <h3>Hello,I'm Bashir Aremu</h3>
-      <p>welcome to my portfolio</p>
-      <div className="header__cta">
+      <h3 data-aos="fade-up">Hello,I'm Bashir Aremu</h3>
+      <p data-aos="fade-up">welcome to my portfolio</p>
+      <div data-aos="fade-up" className="header__cta">
         <a href="portfolio" class="btn primary">
           My work
         </a>
