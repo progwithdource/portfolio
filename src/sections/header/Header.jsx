@@ -19,7 +19,7 @@ function Header() {
       <h3 data-aos="fade-up">Hello,I'm Bashir Aremu</h3>
       <p data-aos="fade-up">welcome to my portfolio</p>
       <div data-aos="fade-up" className="header__cta">
-        <a href="portfolio" class="btn primary">
+        <a href="#portfolio" class="btn primary">
           My work
         </a>
         <a href="#contact" class="btn light">

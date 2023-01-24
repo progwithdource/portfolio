@@ -4,8 +4,8 @@ import "./contact.css";
 const Contact = () => {
   return (
     <section id="contact">
-      <h2>Get In Touch</h2>
-      <p>Shoot me a message via any of the links below!</p>
+      <h2>How may I help you?</h2>
+      <p>Drop me a line via any of the links below!</p>
       <div className="container contact__container" data-aos="fade-up">
         {contacts.map((contact) => (
           <a
