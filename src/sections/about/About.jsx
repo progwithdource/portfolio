@@ -1,5 +1,5 @@
 import "./about.css";
-import AboutImage from "../../assets/newProfile1.jpeg";
+import AboutImage from "../../assets/first.jpeg";
 import CV from "../../assets/BASHIR AREMU.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
