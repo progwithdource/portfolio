@@ -1,14 +1,14 @@
-import './header.css'
-import HeaderImage from '../../assets/bashpicture.jpg'
-import data from './data'
-import 'aos/dist/aos.css'
-import { useEffect } from 'react'
-import AOS from 'aos'
+import "./header.css";
+import HeaderImage from "../../assets/newProfile.jpeg";
+import data from "./data";
+import "aos/dist/aos.css";
+import { useEffect } from "react";
+import AOS from "aos";
 
 function Header() {
-  useEffect(()=>{
-  AOS.init({duration:2000})
-  },[])
+  useEffect(() => {
+    AOS.init({ duration: 2000 });
+  }, []);
   return (
     <header id="header">
       <div className="container header__container">
@@ -42,4 +42,4 @@ function Header() {
   );
 }
 
-export default Header
+export default Header;

@@ -20,7 +20,7 @@ function Portfolio() {
     <section id="portfolio">
       <h2>Recent Projects </h2>
       <p>
-        Check out some of the projects i reecntly worked on.use the buttons to toggle the different categories
+        Check out some of the projects i recently worked on.use the buttons to toggle the different categories
       </p>
       <div className="container portfolio__container">
         <ProjectsCategories categories={uniqueCategories} onFilterProjects={filterProjectsHandler}/>
