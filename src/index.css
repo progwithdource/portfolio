@@ -29,6 +29,8 @@
     --border-radius-3:0.5rem;
     /* GENERAL TRANSITION VARIABLE */
     --transition:all 500ms ease;
+    --typewriterSpeed:6s;
+    --typewriterCharacters:24;
 }
 html{
     scroll-behavior: smooth;

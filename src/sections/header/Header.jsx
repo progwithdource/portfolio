@@ -16,8 +16,10 @@ function Header() {
           <img src={HeaderImage} alt="headerimage" />
         </div>
       </div>
-      <h3 data-aos="fade-up" class="push-up typing">Hello,I'm Bashir Aremu</h3>
-      <p data-aos="fade-up" class="push-up">welcome to my portfolio</p>
+      <h3 class="push-up typing">Hello, my name is Bashir</h3>
+      <p class="push-up" id="welcome">
+        welcome to my portfolio
+      </p>
       <div data-aos="fade-up" className="header__cta">
         <a href="#portfolio" class="btn primary push-up">
           My work
