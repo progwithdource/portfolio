@@ -16,13 +16,13 @@ function Header() {
           <img src={HeaderImage} alt="headerimage" />
         </div>
       </div>
-      <h3 data-aos="fade-up">Hello,I'm Bashir Aremu</h3>
-      <p data-aos="fade-up">welcome to my portfolio</p>
+      <h3 data-aos="fade-up" class="push-up typing">Hello,I'm Bashir Aremu</h3>
+      <p data-aos="fade-up" class="push-up">welcome to my portfolio</p>
       <div data-aos="fade-up" className="header__cta">
-        <a href="#portfolio" class="btn primary">
+        <a href="#portfolio" class="btn primary push-up">
           My work
         </a>
-        <a href="#contact" class="btn light">
+        <a href="#contact" class="btn light push-up">
           Let's talk
         </a>
       </div>

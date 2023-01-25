@@ -11,7 +11,7 @@ header{
     flex-direction: column;
     align-items: center;
     position:relative;
-    margin-bottom:4.5rem;
+    margin-bottom:3.5rem;
     
     
 }
@@ -21,7 +21,7 @@ header{
    /* position:absolute; */
    overflow: hidden;
    border-radius:9rem 9rem 2rem 2rem;
-   margin-top:2.5rem;
+   /* margin-top:2.5rem; */
 }
 .header__container p{
     width:35rem;
@@ -36,6 +36,7 @@ header{
     display: flex;
     align-items: center;
     gap:1.2rem;
+    margin-bottom: 3rem;
 }
 .header__socials{
     position:absolute;
@@ -47,6 +48,9 @@ header{
     /* margin-top: 15rem; */
     /* left:0; */
     /* bottom:0; */
+}
+.push-up{
+    margin-bottom: 2rem;
 }
 .header__socials a{
     width:1.8rem;
