@@ -1,6 +1,6 @@
 import "./about.css";
 import AboutImage from "../../assets/first.jpeg";
-import CV from "../../assets/BASHIR2023CV.pdf";
+import CV from "../../assets/Bashir_Aremu_Resume_2023.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
