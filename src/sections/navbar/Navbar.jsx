@@ -1,5 +1,5 @@
 import "./navbar.css";
-import Logo from "../../assets/bashdev.jpg";
+// import Logo from "../../assets/bashdev.jpg";
 import data from "./data";
 import { IoIosColorPalette } from "react-icons/io";
 import {useModalContext} from '../../context/modal-context';
@@ -9,7 +9,7 @@ function Navbar() {
     <nav>
       <div className="container nav__container">
         <a href="index.html" className="nav__logo">
-          <img src={Logo} alt="logo" className="Logo" />
+          {/* <img src={Logo} alt="logo" className="Logo" /> */}
         </a>
         <ul className="nav__menu">
           {data.map((item) => (

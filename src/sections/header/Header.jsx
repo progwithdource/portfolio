@@ -1,5 +1,5 @@
 import "./header.css";
-import HeaderImage from "../../assets/second.jpeg";
+import HeaderImage from "../../assets/adex.jpeg";
 import data from "./data";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
@@ -16,7 +16,7 @@ function Header() {
           <img src={HeaderImage} alt="headerimage" />
         </div>
       </div>
-      <h3 class="push-up typing">Hello, my name is Bashir</h3>
+      <h3 class="push-up typing">Hello, my name is Adeoluwa</h3>
       <p class="push-up" id="welcome">
         welcome to my portfolio
       </p>

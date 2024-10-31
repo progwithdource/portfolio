@@ -1,6 +1,6 @@
 import "./about.css";
-import AboutImage from "../../assets/first.jpeg";
-import CV from "../../assets/Bashir_Aremu_Resume_2023.pdf";
+import AboutImage from "../../assets/adex.jpeg";
+import CV from "../../assets/Idowu Adeoluwa CV 2023.pdf";
 import { HiDownload } from "react-icons/hi";
 import data from "./data";
 import Card from "../../components/Card";
@@ -25,15 +25,20 @@ function About() {
             ))}
           </div>
           <p>
-            my name is Bashir Aremu from Lagos,Nigeria.I'm a web developer
-            presently focused on front-end development with a Bachelor's degree
-            in computer Science.I have a background in Banking as i worked in
-            that sector for some years,"Banker?" yh totally unrelated,the same
-            way bank's personel value customer service and satisfaction is the
-            same way i implement webdevelopment on user's
-            experience,designSystems,accesibility &functionality,when am not
-            coding I watch and analyse football.Enough About me!Check out my
-            resume below{" "}
+            My name is Idowu Adeoluwa Olamide, a web developer and IT
+            professional from Nigeria with a background in computer science and
+            a Master's in Data and Information Science. I specialize in creating
+            seamless, data-driven web solutions that prioritize user experience,
+            accessibility, and functionality. Over the years, I’ve built a
+            foundation in IT and digital transformation, handling roles like
+            Digital Transformation Manager at Slum and Rural Health Initiative,
+            where I designed and managed online platforms and enhanced online
+            presence strategies. I’m proficient in digital tools, including
+            Google Digital Marketing, Python programming, and have a strong
+            understanding of networking essentials. I’m passionate about
+            crafting dynamic, intuitive web experiences and am constantly
+            expanding my skills to stay ahead in front-end development and
+            design systems. Enough about me! Check out my resume below{" "}
           </p>
           <a href={CV} download className="btn primary">
             Download Cv{HiDownload}{" "}
