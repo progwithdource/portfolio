@@ -18,7 +18,7 @@ const data = [
     title: "(FullStack)Ecommerce Fragnances",
     desc: "React Tailwindcss React-Query",
     demo: "https://mhkasa-front.vercel.app/",
-    github: "https://github.com/bashytech007/mhkasa-front",
+    // github: "https://github.com/bashytech007/mhkasa-front",
   },
   {
     id: 2,
@@ -27,7 +27,7 @@ const data = [
     title: "Landing Page Built With React",
     desc: "A landing page for a legal company coped during an hackhathon",
     demo: "https://toyin.vercel.app/",
-    github: "https://github.com/bashytech007/Toyin",
+    // github: "https://github.com/bashytech007/Toyin",
   },
   {
     id: 3,
@@ -36,7 +36,7 @@ const data = [
     title: "An Ngo Site For VVF Cases built with  typescript and React",
     desc: "A volunteer site about VVF CASES in Nigeria i built almost all the pages here(collaboration)",
     demo: "https://fistulacareinitiative.org/",
-    github: "https://github.com/Olatade/fistulacareinitiative.org",
+    // github: "https://github.com/Olatade/fistulacareinitiative.org",
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ const data = [
     title: "(FullStack)Ecommerce Boutique",
     desc: "An ecommerce site that sells wears sneakers etc",
     demo: "https://bash-clothing-j7kl1zsx3-bashytech007.vercel.app/",
-    github: "https://github.com/bashytech007/bash-clothing",
+    // github: "https://github.com/bashytech007/bash-clothing",
   },
   
   {
@@ -55,7 +55,7 @@ const data = [
     title: "ManageLandingPage(Frontend)",
     desc: "Manage landing page from frontendmentor.io/",
     demo: "https://jade-halva-da043a.netlify.app/",
-    github: "https://github.com/bashytech007/manageLandingPage",
+    // github: "https://github.com/bashytech007/manageLandingPage",
   },
   {
     id: 6,
@@ -64,7 +64,7 @@ const data = [
     title: "Keeper app(Frontend)",
     desc: "A note app to keep things",
     demo: "https://serene-kulfi-31e05c.netlify.app/",
-    github: "https://github.com/bashytech007/keeperApp",
+    // github: "https://github.com/bashytech007/keeperApp",
   },
   {
     id: 7,
@@ -73,7 +73,7 @@ const data = [
     title: "omniFood(Frontend)",
     desc: "A fictional ai food company",
     demo: "https://omnifood-bash.netlify.app",
-    github: "https://github.com/bashytech007/omnifood",
+    // github: "https://github.com/bashytech007/omnifood",
   },
   {
     id: 8,
@@ -82,7 +82,7 @@ const data = [
     title: "Recipeapp(Frontend)",
     desc: "A recipe app food company",
     demo: "https://illustrious-cannoli-e4844b.netlify.app/",
-    github: "https://github.com/bashytech007/Recipeapp",
+    // github: "https://github.com/bashytech007/Recipeapp",
   },
   {
     id: 9,
@@ -91,7 +91,7 @@ const data = [
     title: "Bashsocials",
     desc: "A fictional social media  i made that has a look of facebook and twitter",
     demo: "https://socials-bash.vercel.app//",
-    github: "https://github.com/bashytech007/Socials",
+    // github: "https://github.com/bashytech007/Socials",
   },
 
   {
@@ -101,7 +101,7 @@ const data = [
     title: "BATFARM(FRONTEND)",
     desc: "A fictional batfarm site that shows diffrenet crops grown in nigeria and details about them",
     demo: "https://thebatfarm.onrender.com/",
-    github: "https://github.com/bashytech007/batfarm",
+    // github: "https://github.com/bashytech007/batfarm",
   },
     // {
     //   id: 11,
