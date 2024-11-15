@@ -16,10 +16,10 @@ export const socials = [
     link: "https://twitter.com/bashysureboi",
     icon: <AiOutlineTwitter />,
   },
-  { id: 2, link: "https://github.com/bashytech007", icon: <AiFillGithub /> },
+  // { id: 2, link: "https://github.com/bashytech007", icon: <AiFillGithub /> },
   {
     id: 3,
-    link: "https://www.linkedin.com/in/bashir-aremu-880813aa/",
+    link: "https://www.linkedin.com/in/adeoluwa-idowu-a90880105",
     icon: <AiFillLinkedin />,
   },
 ];

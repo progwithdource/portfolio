@@ -8,6 +8,7 @@ import Image7 from "../../assets/Image7.png";
 import Image0 from "../../assets/image1_1.png"
 import Image001 from "../../assets/image1_2.png"
 import Image002 from "../../assets/fistula.png"
+import Image8 from "../../assets/Image8.jpeg"
 // import Image8 from '../../assets/Image8.png'
 
 const data = [
@@ -101,6 +102,15 @@ const data = [
     title: "BATFARM(FRONTEND)",
     desc: "A fictional batfarm site that shows diffrenet crops grown in nigeria and details about them",
     demo: "https://thebatfarm.onrender.com/",
+    // github: "https://github.com/bashytech007/batfarm",
+  },
+  {
+    id: 11,
+    category: "frontend",
+    image: Image8,
+    title: "THATARAGIRL(SHOPIFY)",
+    desc: "An Ecommerce Site",
+    demo: "https://thataragirl.com/",
     // github: "https://github.com/bashytech007/batfarm",
   },
     // {

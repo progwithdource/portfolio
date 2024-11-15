@@ -21,7 +21,7 @@ function Footer() {
       </div>
       </div> 
       <div className="footer__copyright">
-        <small>2023 Bashir Aremu &copy; All Rights Reserved</small>
+        <small>2024 Adeoluwa Idowu &copy; All Rights Reserved</small>
       </div>
       </footer>
   )
